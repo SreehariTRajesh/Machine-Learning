@@ -1,0 +1,15 @@
+The advancements in computer vision with Deep Learning has been constructed and perfected with time,
+primarily over one particular algorithm - a Convolutional Neural Network (CNN)
+Convolutional Neural network is a deep learning algorithm that takes in an input image,assign importance
+to various aspects/objects in the image and be able to differentiate one from the other
+Convolution Layer - The Kernel
+3x3x1 matrix
+Kernel.Filter, K =
+
+1 0 1
+0 1 0
+1 0 1
+
+The Kernel Shifts9 times because of stride length-1, every time performing a matrix multiplication operatiion 
+between K and the portion P of the image over which the kernel is hovering
+
